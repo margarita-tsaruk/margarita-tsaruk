@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Margarita
 #### I am Web developer Student
 
+![Header](https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/Баннер.png)
+
 <<<<<<< HEAD
 I've decided to completely change my profession from HR to IT as this field is incredibly exciting for me.
 
