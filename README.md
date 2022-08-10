@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Margarita
+## Hi there 👋, I'm Margarita
 #### Web Developer Student
 
 <img width="400px" height="500px" src ="https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/баннер%20(2).png" />
