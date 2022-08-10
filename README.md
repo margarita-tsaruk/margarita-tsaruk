@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Margarita
 #### I am Web developer Student
 
+<<<<<<< HEAD
 I've decided to completely change my profession from HR to IT as this field is incredibly exciting for me.
 
 My goal is to learn more while completing my main course @Yandex.Praktikum and working to become a Full-stack Developer in the future. I would like to participate in open-source.
@@ -14,6 +15,25 @@ Skills: REACT / JS / NODE / HTML / CSS
 - 📫 How to reach me: margarita.tsaruk@yandex.ru 
 - 😄 Pronouns: passionate about IT, persistent, wondering 
 
+=======
+### Hi there 👋, I'm Margarita
+#### I am Web developer Student
+![I am Web developer Student](https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/Banner%20(1).pngK/view?usp=sharing)
+
+I've decided to completely change my profession from HR to IT as this field is incredibly exciting for me.
+
+My goal is to learn more while completing my main course @Yandex.Praktikum and working to become a Full-stack Developer in the future. I would like to participate in open-source.
+
+Skills: REACT / JS / NODE / HTML / CSS
+
+- 🔭 I’m currently working on this page: https://github.com/margarita-tsaruk/eco-art 
+- 🌱 I’m currently learning IT course - Web-development @Yandex.Praktikum 
+- 👯 I’m looking to collaborate on open-source 
+- 🤔 I’m looking for help with internship 
+- 📫 How to reach me: margarita.tsaruk@yandex.ru 
+- 😄 Pronouns: passionate about IT, persistent, wondering 
+
+>>>>>>> c71b2de5880b515071030ff7838cc65a59cc0834
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/margarita-tsaruk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](k.mellow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](yamargaritats)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40'>](@Маргарита Царук)  
 
