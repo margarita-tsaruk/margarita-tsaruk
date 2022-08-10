@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Margarita
 #### I am Web developer Student
 
-![Header](https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/Баннер1.jpg)
+![Header](https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/баннер%20(2).png)
 
 <<<<<<< HEAD
 I've decided to completely change my profession from HR to IT as this field is incredibly exciting for me.
 
 My goal is to learn more while completing my main course @Yandex.Praktikum and working to become a Full-stack Developer in the future. I would like to participate in open-source.
 
-Skills: REACT / JS / NODE / HTML / CSS
+Skills: REACT / JS / NODE / HTML / CSS 
 
 - 🔭 I’m currently working on this page: https://github.com/margarita-tsaruk/eco-art 
 - 🌱 I’m currently learning IT course - Web-development @Yandex.Praktikum 
