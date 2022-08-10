@@ -5,7 +5,7 @@
 
 I've decided to completely change my profession from HR to IT as this field is incredibly exciting for me.
 
-My goal is to learn more while completing my main course @Yandex.Praktikum and working to become a Full-stack Developer in the future. I would like to participate in open-source.
+My goal is to learn more while completing my main course @Yandex Practicum and working to become a Full-stack Developer in the future. I would like to participate in open-source.
 
 Skills: REACT / JS / NODE / HTML / CSS 
 
