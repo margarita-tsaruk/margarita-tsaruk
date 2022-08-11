@@ -17,7 +17,7 @@ Skills: REACT / JS / NODE / HTML / CSS
 
 ==================================================================
 
-#### You can reach me reach via:
+### You can reach me via:
 
 <a href="mailto: ya.margarita.ts@gmail.com"> <img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-gmail-logo.gif' alt='gmail' height='40'> </a> [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app.gif' alt='telegram' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
 
