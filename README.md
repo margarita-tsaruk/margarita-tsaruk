@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Margarita
+## Hi there 👋[<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' height='40'>]
 #### Web Developer Student
 
 <img width="300px" height="400px" src ="https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/Banner.png" />
@@ -13,12 +13,13 @@ Skills: REACT / JS / NODE / HTML / CSS
 - 🌱 I’m currently learning IT course - Web-development @Yandex.Praktikum 
 - 👯 I’m looking to collaborate on open-source 
 - 🤔 I’m looking for help with internship 
-- 📫 How to reach me: margarita.tsaruk@yandex.ru 
 - 😄 Pronouns: passionate about IT, persistent, wondering 
 
-=======================================================================
+==================================================================
 
-[<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app.gif' alt='telegram' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
+#### Please reach via:
+
+[<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-gmail-logo.gif' alt='whatsapp' height='40'>](ya.margarita.ts@gmail.com) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app.gif' alt='telegram' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarita-tsaruk" />
 
