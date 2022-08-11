@@ -18,7 +18,7 @@ Skills: REACT / JS / NODE / HTML / CSS
 
 =======================================================================
 
-[<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/yamargaritats)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40' /> 
+[<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app-48.png' alt='telegram' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarita-tsaruk" />
 
