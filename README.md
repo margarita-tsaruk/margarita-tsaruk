@@ -1,4 +1,5 @@
-## Hi there <img width="30px" height="30px" src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/wave.gif' />, I'm Margarita
+## Hi there <img width="30px" height="30px" src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/wave.gif' /> 
+I'm Margarita
 #### Web Developer Student
 
 <img width="300px" height="400px" src ="https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/Banner.png" />
@@ -10,7 +11,7 @@ My goal is to learn more while completing my main course @Yandex Practicum and w
 Skills: REACT / JS / NODE / HTML / CSS 
 
 - 🔭 I’m currently working on this page: https://github.com/margarita-tsaruk/eco-art 
-- 🌱 I’m currently learning IT course - Web-development @Yandex.Praktikum 
+- 🌱 I’m currently learning IT course - Web-development @Yandex.Practicum 
 - 👯 I’m looking to collaborate on open-source 
 - 🤔 I’m looking for help with internship 
 - 😄 Pronouns: passionate about IT, persistent, wondering 
@@ -19,7 +20,7 @@ Skills: REACT / JS / NODE / HTML / CSS
 
 ### You can reach me via:
 
-<a href="mailto: ya.margarita.ts@gmail.com"> <img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-gmail-logo.gif' alt='gmail' height='40'> </a> [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app.gif' alt='telegram' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
+<a href="mailto: ya.margarita.ts@gmail.com"> <img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-gmail-logo.gif' alt='gmail' width='40' height='40'> </a> [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' width='40' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app.gif' alt='telegram' width='40' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' width='40' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarita-tsaruk" />
 
