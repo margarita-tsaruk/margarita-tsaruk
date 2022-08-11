@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Margarita
 #### Web Developer Student
 
-<img width="400px" height="500px" src ="https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/Banner.png" />
+<img width="300px" height="400px" src ="https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/Banner.png" />
 
 I've decided to completely change my profession from HR to IT as this field is incredibly exciting for me.
 
@@ -20,9 +20,9 @@ Skills: REACT / JS / NODE / HTML / CSS
 
 [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app.gif' alt='telegram' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarita-tsaruk" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarita" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=margarita-tsaruk&show_icons=true" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=margarita&show_icons=true" /> 
 
 ![Profile views](https://gpvc.arturio.dev/margarita-tsaruk)  
    
