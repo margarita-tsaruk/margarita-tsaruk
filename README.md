@@ -1,5 +1,4 @@
-## Hi there <img width="30px" height="30px" src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/wave.gif' /> 
-I'm Margarita
+## Hi there <img width="30px" height="30px" src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/wave.gif' />  I'm Margarita
 #### Web Developer Student
 
 <img width="300px" height="400px" src ="https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/Banner.png" />
