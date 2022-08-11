@@ -18,7 +18,7 @@ Skills: REACT / JS / NODE / HTML / CSS
 
 =======================================================================
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/margarita-tsaruk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](k.mellow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](yamargaritats)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40' /> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+[<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/yamargaritats)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40' /> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarita-tsaruk" />
 
