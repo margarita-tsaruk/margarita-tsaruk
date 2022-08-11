@@ -7,7 +7,7 @@ I've decided to completely change my profession from HR to IT as this field is i
 
 My goal is to learn more while completing my main course @Yandex Practicum and working to become a Full-stack Developer in the future. I would like to participate in open-source.
 
-Skills: REACT / JS / NODE / HTML / CSS 
+### Skills: REACT / JS / NODE / HTML / CSS / MSOffice / Adope Photoshop
 
 - 🔭 I’m currently working on this page: https://github.com/margarita-tsaruk/eco-art 
 - 🌱 I’m currently learning IT course - Web-development @Yandex.Practicum 
