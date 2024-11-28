@@ -19,7 +19,7 @@ My goal is to learn more while completing my main course @Yandex Practicum and w
 
 ### You can reach me via:
 
-<a href="mailto: ya.margarita.ts@gmail.com"> <img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-gmail-logo.gif' alt='gmail' width='40' height='40'> </a> [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' width='40' height='40'>](https://api.whatsapp.com/send?phone=79620012880&Text%me) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-telegram-app.gif' alt='telegram' width='40' height='40'>](https://t.me/yamargaritats) [<img src='https://github.com/margarita-tsaruk/margarita-tsaruk/blob/main/assets/icons8-skype.gif' alt='skype' width='40' height='40'>](https://join.skype.com/invite/jSItZfWT45xe)  
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarita-tsaruk" />
 
